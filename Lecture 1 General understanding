@@ -1,0 +1,18 @@
+In the first session I learned that Data mining is the process of discovering and extracting useful,interesting patterns
+and knowledge in large datasets, drawing on machine learning, statistics, AI, and database systems. It is the core step in 
+the Knowledge Discovery in Databases (KDD) process, which involves the steps such as  data cleaning, integration, selection, 
+and transformation, followed by mining, pattern evaluation, and knowledge presentation. A pattern counts as “interesting” 
+if it is useful, understandable, valid on new data, or confirms a hypothesis. I also understood that there is a difference 
+between data warehouse and database ,whereby data warehouse just store the data (specifically historical data ) for analysis 
+and reporting but there is no the daily operations (retrieve  and update of information) as it is in Databases. 
+
+Another part was Data preparation :It classifies attributes as nominal, binary, ordinal, or numeric (interval- or ratio-scaled),
+and as discrete or continuous. It then covers similarity and dissimilarity which  measures how alike or unalike the objects are 
+in comparison to each other which underpin clustering and  outlier detection. For nominal data, dissimilarity is based on the
+number of matching attributes. For binary data, symmetric  binary are the data with equal importance e.g. Gender male and female
+in a classroom. And Asymmetric binary : the data with different importance e.g. Hospital results positive or negative, 
+they have different importance. For numeric data, Euclidean distance: This determines the linear distance between two points, 
+Manhattan distance: this is used to determine a distance between the points in grid-like path ,
+Mathematically , It is a Summation of the absolute difference between two points. 
+Supremum : This is a maximum difference in values between two points.
+
